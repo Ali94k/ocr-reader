@@ -2,5 +2,9 @@
     {
         "merged": "D:\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-v17\\activity_main.xml",
         "source": "D:\\ocr-reader\\app\\src\\main\\res\\layout-land-v17\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ocr-reader-git\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-v17\\activity_main.xml",
+        "source": "D:\\ocr-reader-git\\app\\src\\main\\res\\layout-land-v17\\activity_main.xml"
     }
 ]
